@@ -5,6 +5,6 @@ On my private side, I'm a nature lover and speding my free time by hiking and sk
 
 --> Check my personnal website: https://normanpracht.com
 
-## My open source contributions
+### My open source contributions
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npracht&show_icons=true&theme=dracula&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
