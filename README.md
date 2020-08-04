@@ -7,4 +7,4 @@ On my private side, I'm a nature lover and speding my free time by hiking and sk
 
 ## My open source contributions
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npracht&show_icons=true&?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=npracht&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
